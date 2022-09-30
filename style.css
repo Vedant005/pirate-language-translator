@@ -11,21 +11,21 @@
         place-content: center;
     }
    
-   h1{
+   .heading{
     padding: 2rem;
     display: flex;
      color: antiquewhite;
       font-size:50px;
     margin:auto;
-    justify-content:center;
+    text-align: center;
 }
 
 .mid-txt{
     text-align: center;
-    font-size:x-large;
+    
     margin:auto;
     color: aliceblue;
-    text-shadow: rgb(62, 174, 226);
+    text-shadow:(--primary)
 
 
     
@@ -47,8 +47,9 @@ textarea {
 
 
 .btn-translate{
-   position: inherit;
+   display: block;
    padding-bottom: 1rem;
+   border-radius: 1rem;
 
 }
 .pre-result{
