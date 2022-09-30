@@ -13,7 +13,7 @@
    
    .header{
     padding: 2rem;
-  
+    display: flex;
    color:rgb(244, 209, 209);
     border-end-end-radius: 2rem;
     font-size:50px;
@@ -33,15 +33,18 @@
 
 
 textarea {
-    width: 80%;
     height: 10vh;
+    width: 80%;
     display: block;
     margin: 1rem;
     padding: 1rem;
-    align-self:center;
-    border-radius: 1 rem;
-
+    outline: none;
+    resize: none;
+    border-radius: 0.5rem;
+    border: 0.5px solid #099268;
 }
+
+
 .btn-translate{
    position: inherit;
    padding-bottom: 1rem;
