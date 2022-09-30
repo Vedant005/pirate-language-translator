@@ -17,7 +17,7 @@
      color: antiquewhite;
       font-size:50px;
     margin:auto;
-    text-align: center;
+    justify-content:center;
 }
 
 .mid-txt{
@@ -25,6 +25,7 @@
     font-size:x-large;
     margin:auto;
     color: aliceblue;
+    text-shadow: rgb(62, 174, 226);
 
 
     
