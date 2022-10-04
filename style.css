@@ -11,16 +11,15 @@ body{
     place-content: center;
 }
 
-.heading{
+header{
 padding: 2rem;
+color: antiquewhite;
 
-color:brown;
-border-end-end-radius: 2rem;
-font-size:50px;
+font-size: large;
 
 text-align: center;
 }
-.mid-txt{
+#mid-txt{
 text-align: center;
 font-size:x-large;
 margin:auto;
@@ -31,7 +30,12 @@ margin:auto;
 }
 
 
+div{
+    margin:auto;
+    color:antiquewhite;
+    text-align: center;
 
+}
 
 textarea {
 width: 80%;
