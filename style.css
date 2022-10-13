@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color:#553aa1;
+    background-color:#140836;
     margin: auto;
     max-width: 99.99%;
     place-content: center;
@@ -54,7 +54,7 @@ width: 50%
 }
 #pre-result{
 
-color:rgb(87, 26, 227);
+color:rgb(41, 18, 95);
 margin: 2rem 35rem;
 width: 20%
 
@@ -63,15 +63,15 @@ width: 20%
 
 
 #output {
-margin: auto;
-border: 1px solid black;
+margin-bottom: 2rem;
+border: 2px solid black;
 height: 20vh;
 width: 80%;
 padding-bottom: 1rem;
 padding: 1rem; 
 color: black;
 font-size: 1.5rem;
-
+border-bottom: 1rem;
 }
 
 footer{
@@ -84,5 +84,6 @@ text-align: center;
 }
 .link{
     text-decoration: none;
-    color: black;
+    color: rgb(131, 206, 224);
+    display: block;
 }
