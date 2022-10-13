@@ -10,4 +10,4 @@ A fun app to know the language of pirates.
 https://pirate-translator01.netlify.app/
 
 # SCREENSHOT
-![Screenshot (12)](https://user-images.githubusercontent.com/111733870/195538065-4ef93101-9a69-4620-9c63-5779338bb2da.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/111733870/195538278-7109880c-e496-45c5-8b4a-22e5107de24d.png)
